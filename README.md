@@ -1,3 +1,3 @@
 # GettingBadges
 gettingbadges...
-Hello World..
+Hello Worl
